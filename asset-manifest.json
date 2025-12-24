@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ramisalon/static/css/main.452fc79d.css",
+    "main.js": "/ramisalon/static/js/main.d073c8e6.js",
+    "index.html": "/ramisalon/index.html",
+    "main.452fc79d.css.map": "/ramisalon/static/css/main.452fc79d.css.map",
+    "main.d073c8e6.js.map": "/ramisalon/static/js/main.d073c8e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.452fc79d.css",
+    "static/js/main.d073c8e6.js"
+  ]
+}
